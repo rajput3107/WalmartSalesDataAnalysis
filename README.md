@@ -54,34 +54,34 @@ Add a new column named month_name that contains the extracted months of the year
 
 # Business Questions To Answer
 # Generic Question
-How many unique cities does the data have?
-In which city is each branch?
+1.How many unique cities does the data have?
+2.In which city is each branch?
 # Product
-How many unique product lines does the data have?
-What is the most common payment method?
-What is the most selling product line?
-What is the total revenue by month?
-What month had the largest COGS?
-What product line had the largest revenue?
-What is the city with the largest revenue?
-What product line had the largest VAT?
-Fetch each product line and add a column to those product line showing "Good", "Bad". Good if its greater than average sales
-Which branch sold more products than average product sold?
-What is the most common product line by gender?
-What is the average rating of each product line?
+3.How many unique product lines does the data have?
+4.What is the most common payment method?
+5.What is the most selling product line?
+6.What is the total revenue by month?
+7.What month had the largest COGS?
+8.What product line had the largest revenue?
+9.What is the city with the largest revenue?
+10.What product line had the largest VAT?
+11.Fetch each product line and add a column to those product line showing "Good", "Bad". Good if its greater than average sales
+12.Which branch sold more products than average product sold?
+13.What is the most common product line by gender?
+14.What is the average rating of each product line?
 # Sales
-Number of sales made in each time of the day per weekday
-Which of the customer types brings the most revenue?
-Which city has the largest tax percent/ VAT (Value Added Tax)?
-Which customer type pays the most in VAT?
+15.Number of sales made in each time of the day per weekday
+16.Which of the customer types brings the most revenue?
+17.Which city has the largest tax percent/ VAT (Value Added Tax)?
+18.Which customer type pays the most in VAT?
 # Customer
-How many unique customer types does the data have?
-How many unique payment methods does the data have?
-What is the most common customer type?
-Which customer type buys the most?
-What is the gender of most of the customers?
-What is the gender distribution per branch?
-Which time of the day do customers give most ratings?
-Which time of the day do customers give most ratings per branch?
-Which day fo the week has the best avg ratings?
-Which day of the week has the best average ratings per branch?
+19.How many unique customer types does the data have?
+20.How many unique payment methods does the data have?
+21.What is the most common customer type?
+22.Which customer type buys the most?
+23.What is the gender of most of the customers?
+24.What is the gender distribution per branch?
+25.Which time of the day do customers give most ratings?
+26.Which time of the day do customers give most ratings per branch?
+27.Which day fo the week has the best avg ratings?
+28.Which day of the week has the best average ratings per branch?
